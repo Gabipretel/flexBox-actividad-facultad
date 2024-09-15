@@ -1,0 +1,37 @@
+/* Estilos generales para las paginas de los magos */
+
+.mago_volver{
+  text-decoration: none;
+  font-size: 50px;
+  color: #ffffff;
+  cursor: pointer
+}
+.mago_volver:hover{
+    color:#000000
+}
+.mago_title{
+    color: #ffffff;
+    text-align: center;
+}
+.mago_linea{
+    width: 300px;
+    border-bottom: 5px solid #ffffff;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.img_mago {
+    width: 100%;
+}
+.mago_subtitle_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.mago_subtitle{
+    padding: 20px;
+    border-radius: 12px;
+    border: 2px solid #ffffff ;
+    color: #ffffff;
+    font-size: 24px;
+}
